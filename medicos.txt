@@ -3,3 +3,5 @@ Dra. Ana Prueba - Medicina General
 Dr. Luis Ejemplo - Pediatría
 Dr. Pedro Muestra - Cardiología
 Dra. Carmen Consulta - Ginecología
+Dr. Roberto Diagnóstico - Neurología
+Dra. Elena Cuidado - Oftalmología
