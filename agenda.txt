@@ -1,5 +1,5 @@
 AGENDA DE CITAS (DATOS FICTICIOS)
-08:00 - Paciente Ficticio 01 - Medicina General
+08:00 - Paciente Ficticio 01 (Modificado por Rama A) - Medicina General / Triaje 1
 09:00 - Paciente Ficticio 02 - Pediatría
 10:00 - Paciente Ficticio 03 - Medicina General
 11:30 - Paciente Ficticio 05 - Dermatología
