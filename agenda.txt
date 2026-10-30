@@ -1,0 +1,3 @@
+AGENDA DE CITAS (DATOS FICTICIOS)
+08:00 - Paciente Ficticio 01 - Medicina General
+09:00 - Paciente Ficticio 02 - Pediatría
