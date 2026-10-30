@@ -3,3 +3,4 @@ AGENDA DE CITAS (DATOS FICTICIOS)
 09:00 - Paciente Ficticio 02 - Pediatría
 10:00 - Paciente Ficticio 03 - Medicina General
 11:30 - Paciente Ficticio 05 - Dermatología
+11:00 - Paciente Ficticio 04 - Traumatología
