@@ -4,3 +4,5 @@ AGENDA DE CITAS (DATOS FICTICIOS)
 10:00 - Paciente Ficticio 03 - Medicina General
 11:30 - Paciente Ficticio 05 - Dermatología
 11:00 - Paciente Ficticio 04 - Traumatología
+12:00 - Paciente Viernes 01 - Odontología
+13:00 - Paciente Viernes 02 - Nutrición
